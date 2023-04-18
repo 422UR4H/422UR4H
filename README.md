@@ -8,7 +8,7 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 <br>
 
 ### Languages and Tools:
-![c-icon](https://user-images.githubusercontent.com/36780789/198897967-734004b2-af61-41b9-a979-7d601e7b4237.png)
+![c-lang](https://user-images.githubusercontent.com/36780789/198897967-734004b2-af61-41b9-a979-7d601e7b4237.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![cpp](https://user-images.githubusercontent.com/36780789/198898010-61b119e8-4214-401d-962c-971333d862cd.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
@@ -17,6 +17,12 @@ I'm a computer science student in Brazil. I love exploring new technologies and 
 ![java](https://user-images.githubusercontent.com/36780789/198898037-d83a758d-c350-4944-b143-4a6825a57452.png)
 ![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
 ![mysql](https://user-images.githubusercontent.com/71052352/176318656-e8b5a28a-f4a0-4c6c-bd88-24705f567608.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![html](https://user-images.githubusercontent.com/36780789/232924266-f9a0dd68-ebc4-470c-80fe-c2c2a423d4d3.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![css](https://user-images.githubusercontent.com/36780789/232924359-a2831359-b8ed-4b7f-8ddc-77a8c88c4826.png)
+![space](https://user-images.githubusercontent.com/71052352/168397384-e1576a6a-530c-4c3d-a2bf-c49bf1e8a07b.png)
+![javascript](https://user-images.githubusercontent.com/36780789/232924446-983ebf7d-93d8-4a3c-b589-a0b0dd9e76f1.png)
 
 ### Github Stats
 <a href='https://github.com/422UR4H/github-stats-transparent'>
