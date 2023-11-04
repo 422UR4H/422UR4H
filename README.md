@@ -1,10 +1,10 @@
 ### Hi, I'm Tiago
-I'm a computer science student in Brazil. I love exploring new technologies and leveraging them to build cool stuffs.
+I'm a Web FullStack Developer in Brazil. My magnetic fascination with programming was born from my natural enchantment with RPG.
 
 ### More About Me:
-- I'm currently studying computer science at UFF, Brazil;
-- Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/tiago-sindra-sad-311009258/);
-- When I am free, I like to play RPG games and read geek stuff.
+- I am currently migrating from the area of Civil Engineering at the Universidade Federal Fluminense (UFF) to the area of Web Development;
+- Feel free to ping me on my [LinkedIn](https://www.linkedin.com/in/tiagosindra/);
+- I'm quite happy turning one of my many hobbies into work and I believe this will continue for a long time.
 <br>
 
 ### Languages and Tools:
