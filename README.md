@@ -104,7 +104,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <br />
     </ul>
 </details>
-<details>
+<details style="display: flex; justify-content: space-between;">
     <summary><b>Github Stats</b></summary>
     <a href="https://github.com/422UR4H/github-readme-stats">
         <img
