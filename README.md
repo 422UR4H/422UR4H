@@ -104,9 +104,9 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <br />
     </ul>
 </details>
-<div style="display: flex; justify-content: space-between;">
-    <details>
-        <summary><b>Github Stats</b></summary>
+<details>
+    <summary><b>Github Stats</b></summary>
+    <div align="center">
         <a href="https://github.com/422UR4H/github-readme-stats">
             <img
                 height="192px"
@@ -127,5 +127,5 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
                 src="https://github-readme-activity-graph.vercel.app/graph/?username=422UR4H&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
             />
         </a>
-    </details>
-</div>
+    </div>
+</details>
