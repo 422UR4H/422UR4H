@@ -3,7 +3,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 
 ### More About Me:
 - I am currently migrating from the area of Civil Engineering at the Universidade Federal Fluminense (UFF) to the area of Web Development;
-- Feel free to ping me on my [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/tiagosindra/);
+- Feel free to ping me on my [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagosindra/);
 - I'm quite happy turning one of my many hobbies into work and I believe this will continue for a long time.
 <br>
 
@@ -16,7 +16,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <td><b>🎨 Front-end</b></td>
         <td><b>📚 Libraries</b></td>
         <td><b>⚙️ IDEs</b></td>
-        <td><b>🐧 Operational Systems</b></td>
+        <td><b>🐧 OSs</b></td>
       </tr>
     </thead>
     <tbody>
@@ -53,7 +53,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <td><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /></td>
       </tr>
       <tr>
-        <td><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white" /></td>
+        <td><img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" /></td>
         <td><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></td>
         <td><img alt="Next" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></td>
         <td><img alt="Axios" src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" /></td>
