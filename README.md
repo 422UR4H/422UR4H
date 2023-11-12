@@ -1,4 +1,4 @@
-### Hello, friend. I'm 422U... I'm Tiago Sindra
+## Hello, friend. I'm 422U... I'm Tiago Sindra
 I'm a Web FullStack Developer in Brazil. My magnetic fascination with programming was born from my natural enchantment with RPG.
 
 ### More About Me:
@@ -7,8 +7,8 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 - I'm quite happy turning one of my many hobbies into work and I believe this will continue for a long time.
 <br>
 
-### Languages and Tools:
-## Ecosystem:
+## Languages and Tools:
+### Ecosystem:
 <table>
     <thead slign="center">
         <td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
@@ -17,7 +17,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
     </thead>
 </table>
 
-## Stacks:
+### Stacks:
 <table>
     <thead align="center">
       <tr border: none;>
@@ -29,7 +29,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <td><b>🐧 OSs</b></td>
       </tr>
     </thead>
-    <tbody>
+    <tbody style="text-align: center;">
       <tr>
         <td><img alt="Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></td>
         <td><img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" /></td>
@@ -73,7 +73,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
     </tbody>
   </table>
 
-  ## Other Languages and Platforms:
+  ### Other Languages and Platforms:
   <table>
     <thead slign="center">
         <td><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" /></td>
