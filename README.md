@@ -8,6 +8,16 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 <br>
 
 ### Languages and Tools:
+## Ecosystem:
+<table>
+    <thead slign="center">
+        <td><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></td>
+        <td><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></td>
+        <td><img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></td>
+    </thead>
+</table>
+
+## Stacks:
 <table>
     <thead align="center">
       <tr border: none;>
@@ -61,6 +71,17 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <td><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></td>
       </tr>
     </tbody>
+  </table>
+
+  ## Other Languages and Platforms:
+  <table>
+    <thead slign="center">
+        <td><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" /></td>
+        <td><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
+        <td><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
+        <td><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></td>
+        <td><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
+    </thead>
   </table>
 
 
