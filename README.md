@@ -90,22 +90,22 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 ## Stats and Dev Stuffs:
 <details>
     <summary><b>Things I use to get stuff done</b></summary>
-    <li>
-        <table>
-            <thead slign="center">
-                <td><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white" /></td>
-                <td><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></td>
-                <td><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></td>
-                <td><img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /></td>
-                <td><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
-            </thead>
-        </table>
-    </li>
+    <ul>
+        <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
+        <li>Browsers:<span> </span>
+            <img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+            <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+        </li>
+        <li>Terminals:<span> </span>
+            <img alt="GNU BASH" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+            <img alt="Git BASH" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        </li>
+    </ul>
 </details>
 <details>
     <summary><b>Github Stats</b></summary>
     <a href='https://github.com/422UR4H/github-stats-transparent'>
         ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=422UR4H&hide=prs,issues&show_icons=true&theme=codeSTACKr)
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=422UR4H&layout=compact&theme=codeSTACKr)](https://github.com/422UR4H/github-readme-stats)
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=422UR4H&layout=compact&theme=codeSTACKr)
     </a>
 </details>
