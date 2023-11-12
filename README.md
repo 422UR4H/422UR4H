@@ -90,7 +90,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 ## Stats and Dev Stuffs:
 <details>
     <summary><b>Things I use to get stuff done</b></summary>
-    < /br>
+    <br />
     <ul>
         <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
         <li>Browsers:<span> </span>
@@ -105,8 +105,6 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 </details>
 <details>
     <summary><b>Github Stats</b></summary>
-    <a href='https://github.com/rahul-jha98/github-stats-transparent'>
-        ![Stats Overview](https://raw.githubusercontent.com/422UR4H/github-stats-transparent/output/generated/overview.svg)
-        ![Most Used Languages](https://raw.githubusercontent.com/422UR4H/github-stats-transparent/output/generated/languages.svg)
-    </a>
+    <a href="https://github.com/422UR4H/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/422UR4H/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </details>
