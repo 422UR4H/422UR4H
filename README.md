@@ -90,6 +90,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 ## Stats and Dev Stuffs:
 <details>
     <summary><b>Things I use to get stuff done</b></summary>
+    < /br>
     <ul>
         <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
         <li>Browsers:<span> </span>
@@ -104,8 +105,8 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 </details>
 <details>
     <summary><b>Github Stats</b></summary>
-    <a href='https://github.com/422UR4H/github-stats-transparent'>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=422UR4H&hide=prs,issues&show_icons=true&theme=codeSTACKr)
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=422UR4H&layout=compact&theme=codeSTACKr)
+    <a href='https://github.com/rahul-jha98/github-stats-transparent'>
+        ![Stats Overview](https://raw.githubusercontent.com/422UR4H/github-stats-transparent/output/generated/overview.svg)
+        ![Most Used Languages](https://raw.githubusercontent.com/422UR4H/github-stats-transparent/output/generated/languages.svg)
     </a>
 </details>
