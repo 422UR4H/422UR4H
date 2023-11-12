@@ -4,10 +4,8 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 ### About Me:
 - I am currently migrating from the area of Civil Engineering at the Universidade Federal Fluminense (UFF) to the area of Web Development;
 - I'm quite happy turning one of my many hobbies into work and I believe this will continue for a long time.
-<br />
 
-### Find more about me on:
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagosindra/);
+### Find more about me on: [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagosindra/)
 <br />
 
 ## Languages and Tools:
