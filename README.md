@@ -1,4 +1,4 @@
-## Hello, friend. I'm 422U... I'm Tiago Sindra
+## Hello, friend. I'm 422UR... I'm Tiago Sindra
 I'm a Web FullStack Developer in Brazil. My magnetic fascination with programming was born from my natural enchantment with RPG.
 
 ### About Me:
@@ -86,6 +86,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
         <td><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></td>
     </thead>
 </table>
+<br />
 
 ## Stats and Dev Stuffs:
 <details>
@@ -106,6 +107,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 </details>
 <details>
     <summary><b>Github Stats</b></summary>
+    <br />
     <div align="center">
         <a href="https://github.com/422UR4H/github-readme-stats">
             <img
