@@ -19,7 +19,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
     </thead>
 </table>
 
-### Stacks:
+### Technologies and Stacks:
 <table>
     <thead align="center">
         <tr border: none;>
@@ -93,7 +93,6 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
     <summary><b>Things I use to get stuff done</b></summary>
     <br />
     <ul>
-        <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
         <li>Browsers:<span> </span>
             <img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />
             <img alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
@@ -102,6 +101,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
             <img alt="GNU BASH" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
             <img alt="Git BASH" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         </li>
+        <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
         <br />
     </ul>
 </details>
