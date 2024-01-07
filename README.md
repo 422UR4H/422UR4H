@@ -88,6 +88,20 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
 </table>
 <br />
 
+### Technologies I'm learning:
+<table>
+    <tbody style="text-align: center;">
+        <tr>
+            <td><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /></td>
+            <td><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" /></td>
+            <td><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></td>
+            <td><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></td>
+            <td><img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></td>
+        </tr>
+    </tbody>
+</table>
+<br />
+
 ## Stats and Dev Stuffs:
 <details>
     <summary><b>Things I use to get stuff done</b></summary>
