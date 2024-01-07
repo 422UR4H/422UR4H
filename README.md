@@ -116,6 +116,7 @@ I'm a Web FullStack Developer in Brazil. My magnetic fascination with programmin
             <img alt="Git BASH" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         </li>
         <li>Notebook: <img alt="Lenovo Laptop" src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" /></li>
+        <li>Managers: <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" /></li>
         <br />
     </ul>
 </details>
