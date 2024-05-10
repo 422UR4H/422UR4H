@@ -1,9 +1,10 @@
 ## Hello, friend. I'm 422UR... I'm Tiago Sindra
-I'm a Web FullStack Developer in Brazil. My magnetic fascination with programming was born from my natural enchantment with RPG.
+I'm a Software Engineer in Brazil. My magnetic fascination with programming was born from my natural enchantment with RPG.
 
 ### About Me:
-- I am currently migrating from the area of Civil Engineering at the Universidade Federal Fluminense (UFF) to the area of Web Development;
-- I'm quite happy turning one of my many hobbies into work and I believe this will continue for a long time.
+- I migrated from the Civil Engineering area at Universidade Federal Fluminense (UFF) to the Back-end Development area;
+- I graduated in Fullstack Web Development from Driven Education
+- I'm very happy to have turned one of my many hobbies into work and I believe this will continue for a long time.
 
 ### Find more about me on:
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/tiagosindra/)
